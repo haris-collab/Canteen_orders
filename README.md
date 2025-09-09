@@ -5,7 +5,7 @@
 **CampusPay Scan** is a modern web application designed to simplify payments at campus canteens and shops. Students can use their mobile phones to scan a UPI QR code and pay instantly, eliminating the need for cash and providing a seamless transaction experience for both students and vendors.
 
 This project is built with a focus on a clean user interface, security, and performance.
-
+## Visit now ~ https://instantcanteen.netlify.app
 ## Key Features
 
 * **Quick Scan & Pay:** Instantly scan UPI QR codes to initiate payments.
