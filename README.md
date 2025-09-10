@@ -16,7 +16,7 @@ This project is built with a focus on a clean user interface, security, and perf
 ## Technologies Used
 
 * **Frontend:** React, TypeScript
-* **Styling:** Tailwind CSS, shadcn/ui
+* **Styling:** Tailwind CSS
 * **Build Tool:** Vite
 * **Database & Auth:** Supabase (for user authentication and data management)
 
