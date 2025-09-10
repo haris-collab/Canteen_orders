@@ -55,11 +55,11 @@ const Index = () => {
           <div className="text-center mb-16">
             <div className="flex items-center justify-center mb-6">
               <ChefHat className="w-16 h-16 text-primary mr-4" />
-              <h1 className="text-5xl font-bold text-primary">Canteen Portal</h1>
+              <h1 className="text-5xl font-bold text-primary">Instant Canteen</h1>
             </div>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
               Order delicious meals from your canteen with ease. Skip the queues, 
-              track your orders, and enjoy fresh food delivered right to you.
+              track your orders.
             </p>
           </div>
 
