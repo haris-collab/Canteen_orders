@@ -122,7 +122,7 @@ const Auth = () => {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center mb-4">
             <ChefHat className="w-12 h-12 text-primary mr-2" />
-            <h1 className="text-3xl font-bold text-primary">Canteen Portal</h1>
+            <h1 className="text-3xl font-bold text-primary">Instant Canteen</h1>
           </div>
           <p className="text-muted-foreground">Order delicious meals with ease</p>
         </div>
