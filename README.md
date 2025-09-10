@@ -1,8 +1,8 @@
-# CampusPay Scan
+# Instant Canteen
 
 ## Project Overview
 
-**CampusPay Scan** is a modern web application designed to simplify payments and ordering prior at campus canteens and shops.Studnets can place orders from their phone during class hours and enjoy their orders while skipping long queues during peak rush hours like short break and lunch break, students use their mobile phones to scan a UPI QR code and pay instantly, eliminating the need for cash and providing a seamless transaction experience for both students and vendors.
+**Instant Canteen** is a modern web application designed to simplify payments and ordering prior at campus canteens and shops.Studnets can place orders from their phone during class hours and enjoy their orders while skipping long queues during peak rush hours like short break and lunch break, students use their mobile phones to scan a UPI QR code and pay instantly, eliminating the need for cash and providing a seamless transaction experience for both students and vendors.
 
 The ablity of Staff (canteen owners) to receive orders before rush hours allows them to prepare these orders and increase the overall sales that happen during the break time while also reducing the waiting time for students this coupled futher with a Staff dashboard allows them to dynamically change menu items,track and process orders.
 
@@ -34,7 +34,7 @@ This project is built with a focus on a clean user interface, security, and perf
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/campus-pay-scan.git](https://github.com/your-username/campus-pay-scan.git)
+    git clone https://github.com/haris-collab/Instant_Canteen.git
     cd campus-pay-scan
     ```
 
